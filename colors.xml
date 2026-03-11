@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launcher icon background — тёмно-синий фирменный цвет DeafCall -->
+    <color name="ic_launcher_background">#1A1A28</color>
+
+    <!-- Brand colors -->
+    <color name="cyan_accent">#00E5FF</color>
+    <color name="purple_accent">#7C4DFF</color>
+    <color name="green_success">#00E676</color>
+    <color name="red_danger">#FF1744</color>
+</resources>

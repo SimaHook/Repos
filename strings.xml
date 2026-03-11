@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeafCall</string>
+    <string name="app_description">Звонилка для людей с нарушением слуха</string>
+
+    <!-- Screens -->
+    <string name="incoming_call">Входящий звонок</string>
+    <string name="active_call">Активный звонок</string>
+    <string name="settings">Настройки</string>
+    <string name="history">История</string>
+
+    <!-- Actions -->
+    <string name="accept">Принять</string>
+    <string name="reject">Отклонить</string>
+    <string name="end_call">Завершить звонок</string>
+    <string name="send">Отправить</string>
+    <string name="mute">Мут</string>
+    <string name="speaker">Динамик</string>
+    <string name="record">Запись</string>
+
+    <!-- STT -->
+    <string name="waiting_speech">Ожидание речи собеседника...</string>
+    <string name="voice_to_text">Голос → Текст</string>
+    <string name="text_to_voice">Ваш ответ → Голос</string>
+    <string name="reply_hint">Напишите ответ — будет озвучен...</string>
+
+    <!-- Notifications -->
+    <string name="notification_incoming_call">Входящий звонок</string>
+    <string name="notification_active_call">Активный звонок · STT включён</string>
+    <string name="notification_stt">Распознавание речи работает</string>
+    <string name="notification_app_active">DeafCall активен</string>
+
+    <!-- Settings -->
+    <string name="setting_large_font">Крупный шрифт</string>
+    <string name="setting_large_font_desc">Увеличить текст транскрипции</string>
+    <string name="setting_high_contrast">Высококонтрастный режим</string>
+    <string name="setting_high_contrast_desc">Максимальный контраст текста</string>
+    <string name="setting_vibro_text">Вибрация при новом тексте</string>
+    <string name="setting_vibro_text_desc">Короткий сигнал при каждом слове</string>
+    <string name="setting_flash">Мигание экрана</string>
+    <string name="setting_flash_desc">Вспышка при входящем вызове</string>
+    <string name="setting_auto_save">Автосохранение транскрипций</string>
+    <string name="setting_auto_save_desc">Сохранять текст всех разговоров</string>
+</resources>
